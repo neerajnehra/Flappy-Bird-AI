@@ -30,7 +30,7 @@ class Bird:
     """
     MAX_ROTATION = 25 # 25 to 50
     IMGS = bird_images
-    ROT_VEL = 20
+    ROT_VEL = 28
     ANIMATION_TIME = 5
 
     def __init__(self, x, y):
